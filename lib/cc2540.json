@@ -38,7 +38,7 @@
         "serviceStateTable": {
           "temperature": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": -273.15,
               "maximum": 1000000
@@ -63,7 +63,7 @@
         "serviceStateTable": {
           "humidity": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": 0,
               "maximum": 100
@@ -98,7 +98,7 @@
         "serviceStateTable": {
           "x": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": -100,
               "maximum": 100
@@ -107,7 +107,7 @@
           },
           "y": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": -100,
               "maximum": 100
@@ -116,7 +116,7 @@
           },
           "z": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": -100,
               "maximum": 100
@@ -151,17 +151,17 @@
         "serviceStateTable": {
           "x": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           },
           "y": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           },
           "z": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           }
         }
@@ -182,7 +182,7 @@
         "serviceStateTable": {
           "pressure": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "allowedValueRange": {
               "minimum": 0,
               "maximum": 1013.25
@@ -217,17 +217,17 @@
         "serviceStateTable": {
           "x": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           },
           "y": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           },
           "z": {
             "sendEvents": true,
-            "dataType": "float",
+            "dataType": "number",
             "defaultValue": 0
           }
         }
