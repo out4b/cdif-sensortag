@@ -1,6 +1,6 @@
 {
   "name": "cdif-sensortag",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "CDIF BLE module for the TI SensorTag",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,6 @@
     "url": "https://github.com/out4b/cdif-sensortag/issues"
   },
   "homepage": "https://github.com/out4b/cdif-sensortag",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
