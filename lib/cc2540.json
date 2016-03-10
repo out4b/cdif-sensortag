@@ -8,7 +8,7 @@
     "deviceType": "urn:cdif-net:device:SensorHub:1",
     "friendlyName": "SensorTag",
     "manufacturer": "Texas Instruments",
-    "manufacturerURL": "www.ti.com/sensortag",
+    "manufacturerURL": "http://www.ti.com/sensortag",
     "modelDescription": "CC2540 SensorTag",
     "modelName": "CC2540 SensorTag",
     "userAuth": false,
@@ -18,7 +18,7 @@
         "width": 80,
         "height": 100,
         "depth": 16,
-        "url": "icon URL"
+        "url": ""
       }
     ],
     "serviceList": {
