@@ -1,27 +1,28 @@
 {
   "name": "sensortag",
   "version": "1.2.0",
-  "description": "Node.js lib for the TI SensorTag",
+  "description": "CDIF BLE module for the TI SensorTag",
   "main": "index.js",
   "scripts": {
     "test": "jshint lib/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/node-sensortag"
+    "url": "https://github.com/out4b/cdif-sensortag.git"
   },
   "keywords": [
     "TI",
     "SensorTag"
   ],
-  "author": "Sandeep Mistry",
+  "author": "out4b",
   "license": "MIT",
   "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/out4b/cdif-sensortag/issues"
+  },
+  "homepage": "https://github.com/out4b/cdif-sensortag",
   "dependencies": {
-    "noble-device": "^1.1.0"
   },
   "devDependencies": {
-    "async": "~0.2.7",
-    "jshint": "~1.1.0"
   }
 }
