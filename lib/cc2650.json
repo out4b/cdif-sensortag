@@ -210,7 +210,7 @@
             "dataType": "number",
             "allowedValueRange": {
               "minimum": 0,
-              "maximum": 1013.25
+              "maximum": 1030
             },
             "defaultValue": 0
           }
