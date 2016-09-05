@@ -15,10 +15,10 @@
     "iconList": [
       {
         "mimetype": "image/format",
-        "width": 80,
-        "height": 100,
-        "depth": 16,
-        "url": ""
+        "width": 200,
+        "height": 205,
+        "depth": 8,
+        "url": "http://www.ti.com/ww/en/wireless_connectivity/sensortag2015/images/sensortag-img-bluetooth.png"
       }
     ],
     "serviceList": {
