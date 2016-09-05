@@ -6,7 +6,7 @@
   },
   "device": {
     "deviceType": "urn:cdif-net:device:SensorHub:1",
-    "friendlyName": "SensorTag",
+    "friendlyName": "SensorTag 2.0",
     "manufacturer": "Texas Instruments",
     "manufacturerURL": "www.ti.com/sensortag",
     "modelDescription": "CC2650 SensorTag",
